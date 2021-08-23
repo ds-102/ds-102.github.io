@@ -11,6 +11,7 @@ This class is listed as STAT 102.
 
 # Offerings
 
+- [Fall 2021](https://ds-102.github.io/fa21/) (Ramesh Sridharan, Jacob Steinhardt)
 - [Spring 2021](https://ds-102.github.io/sp21/) (Ramesh Sridharan, Yan Shuo Tan)
 - [Fall 2020](https://ds-102.github.io/fa20/) (Michael Jordan, Jacob Steinhardt)
 - [Spring 2020](https://ds-102.github.io/sp20/) (Jacob Steinhardt, Moritz Hardt)
