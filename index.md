@@ -7,15 +7,16 @@ title: "Data, Inference, and Decisions"
 
 This course develops the probabilistic foundations of inference in data science, and builds a comprehensive view of the modeling and decision-making life cycle in data science including its human, social, and ethical implications. Topics include: frequentist and Bayesian decision-making, permutation testing, false discovery rate, probabilistic interpretations of models, Bayesian hierarchical models, basics of experimental design, confidence intervals, causal inference, robustness, Thompson sampling, optimal control, Q-learning, differential privacy, fairness in classification, recommendation systems and an introduction to machine learning tools including decision trees, neural networks and ensemble methods.
 
-This class is listed as STAT 102.
+This class is listed as DATA C102.
 
 # Offerings
 
-- [Fall 2021](https://ds-102.github.io/fa21/) (Ramesh Sridharan, Jacob Steinhardt)
-- [Spring 2021](https://ds-102.github.io/sp21/) (Ramesh Sridharan, Yan Shuo Tan)
-- [Fall 2020](https://ds-102.github.io/fa20/) (Michael Jordan, Jacob Steinhardt)
-- [Spring 2020](https://ds-102.github.io/sp20/) (Jacob Steinhardt, Moritz Hardt)
-- [Fall 2019](https://ds-102.github.io/fa19/) (Michael Jordan, Fernando Perez)
+- [Spring 2022](https://data102.org/sp22/) (Ramesh Sridharan, Nika Haghtalab)
+- [Fall 2021](https://data102.org/fa21/) (Ramesh Sridharan, Jacob Steinhardt)
+- [Spring 2021](https://data102.org/sp21/) (Ramesh Sridharan, Yan Shuo Tan)
+- [Fall 2020](https://data102.org/fa20/) (Michael Jordan, Jacob Steinhardt)
+- [Spring 2020](https://data102.org/sp20/) (Jacob Steinhardt, Moritz Hardt)
+- [Fall 2019](https://data102.org/fa19/) (Michael Jordan, Fernando Perez)
 
 # Prerequisites
 
