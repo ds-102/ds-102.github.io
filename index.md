@@ -11,6 +11,7 @@ This class is listed as DATA C102.
 
 # Offerings
 
+- [Fall 2022](https://data102.org/fa/) (Ramesh Sridharan, Jacob Steinhardt)
 - [Spring 2022](https://data102.org/sp22/) (Ramesh Sridharan, Nika Haghtalab)
 - [Fall 2021](https://data102.org/fa21/) (Ramesh Sridharan, Jacob Steinhardt)
 - [Spring 2021](https://data102.org/sp21/) (Ramesh Sridharan, Yan Shuo Tan)
