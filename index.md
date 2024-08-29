@@ -13,6 +13,7 @@ This course develops the probabilistic foundations of inference in data science,
 This class is listed as DATA C102.
 
 ## Offerings
+- [Fall 2024](https://data102.org/fa24) (Ramesh Sridharan, Alexander Strang)
 - [Spring 2024](https://data102.org/sp24) (Ramesh Sridharan, Alexander Strang)
 - [Fall 2023](https://data102.org/fa23/) (Ramesh Sridharan, Aditya Guntuboyina)
 - [Spring 2023](https://data102.org/sp23/) (Ramesh Sridharan, Eaman Jahani)
