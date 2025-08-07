@@ -15,14 +15,16 @@
 # in the templates via {{ site.myvariable }}.
 title: Data 102
 description: Data, Inference, and Decisions
-author: Dominic Liu
-baseurl: / # the subpath of your site, e.g. /blog
+author: UC Berkeley
+baseurl: ~ # the subpath of your site, e.g. /blog
 url: 'https://data102.org' # the base hostname & protocol for your site, e.g. http://example.com
-logo: 'resources/assets/favicon/ms-icon-310x310.png'
+logo: logo.png
 
 # Theme settings
-remote_theme: just-the-docs/just-the-docs@v0.5.2
-color_scheme: wider
+remote_theme: "just-the-docs/just-the-docs@v0.10.1"
+plugins:
+  - jekyll-remote-theme 
+color_scheme: light
 search_enabled: false
 permalink: pretty
 
