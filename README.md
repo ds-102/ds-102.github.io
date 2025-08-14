@@ -1,4 +1,4 @@
-# Data 102 Fall Website
+# Data 102 Website
 
 ## Installation
 
