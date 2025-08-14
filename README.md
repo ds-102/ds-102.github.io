@@ -1,64 +1,46 @@
-# Data 102 Fall 2023 Website
+# Data 102 Fall Website
 
-This [video](https://www.youtube.com/watch?v=azPPK5aOcV0) walks you through how to make changes to the website (just replace all instances of fa19 with fa23 and DS100 with Data 102).
+## Installation
 
-To add Jupyter notebook links to the webpage, use nbgitpuller: https://jupyterhub.github.io/nbgitpuller/link
+### Install Ruby and Bundler
 
-The following text is taken from the standard GitHub Pages README.
+**The berkeley-class-site template requires Ruby 3.3.7 or higher and bundler >= 2.6**
+Install Ruby before continuing. You can check your Ruby version by running:
 
-
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-For more details see GitHub Flavored Markdown.
+```bash
+ruby --version
+bundle --version
 ```
 
-### Jekyll Themes
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your repository settings. The name of this theme is saved in the Jekyll _config.yml configuration file.
+Prerequisites:
 
-### Support or Contact
-Having trouble with Pages? Check out our documentation or contact support and we’ll help you sort it out.
+- You have everything that [Jekyll requires](https://jekyllrb.com/docs/installation/)
+- You have installed [Bundler](https://bundler.io/): Run `gem install jekyll bundler`
 
-### Running Locally
-This website is written using Jekyll Bootstrap with some modifications to improve support for github pages.
+## Clone the repository and install dependencies
 
-Install `rvm`: https://rvm.io/ or `rbenv`: https://github.com/rbenv/rbenv. Personally, `rbenv` might work better for me.
+Clone with SSH
 
-Install Ruby 2.2.0:
+```bash
+git clone git@github.com:ds-102/ds-102.github.io.git
+bundle install
+```
 
-``rvm install 2.2.0``
+## Usage
 
-Clone this repo:
+To run the site locally, run:
 
-``git clone https://github.com/ds-102/fa23.git``
+```bash
+cd ds-102.github.io
+bundle exec jekyll serve
+```
 
-In the repo directory, run:
+Note that if you alter `_config.yml`, you will need to rerun the above command to see the changes reflected.
 
-``gem install bundler``
-``bundle install``
+## Deployment
 
-Finally, serve the project locally with:
+Via [GitHub Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll).
 
-``jekyll serve``
+## License
 
-This will start the local Jekyll server at http://localhost:4000.
+[MIT](LICENSE)
