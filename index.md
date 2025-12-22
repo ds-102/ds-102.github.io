@@ -16,7 +16,7 @@ UC Berkeley Data 102 develops the probabilistic foundations of inference in data
 - [Spring 2025](sp25) (Ramesh Sridharan, Peng Ding)
 - [Fall 2024](fa24) (Ramesh Sridharan, Alexander Strang)
 - [Spring 2024](sp24) (Ramesh Sridharan, Alexander Strang)
-- [Fall 2023](a23) (Ramesh Sridharan, Aditya Guntuboyina)
+- [Fall 2023](fa23) (Ramesh Sridharan, Aditya Guntuboyina)
 - [Spring 2023](sp23) (Ramesh Sridharan, Eaman Jahani)
 - [Fall 2022](fa22) (Ramesh Sridharan, Jacob Steinhardt)
 - [Spring 2022](sp22) (Ramesh Sridharan, Nika Haghtalab)
