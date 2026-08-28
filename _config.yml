@@ -23,7 +23,8 @@ logo: logo.png
 # Theme settings
 remote_theme: "just-the-docs/just-the-docs@v0.10.1"
 plugins:
-  - jekyll-remote-theme 
+  - jekyll-remote-theme
+  - jekyll-sitemap
 color_scheme: light
 search_enabled: false
 permalink: pretty
